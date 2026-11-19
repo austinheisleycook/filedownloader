@@ -1,4 +1,4 @@
-https://mirror.akane.netwimport requests 
+import requests 
 import tkinter as tk
 from tkinter import messagebox
 from tkinter import ttk
